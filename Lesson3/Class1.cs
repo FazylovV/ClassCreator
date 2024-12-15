@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using System;
 using System.Collections.Generic;
 
+
+// that does smth that i cant understand
 namespace Lesson3
 {
     class Human
