@@ -24,7 +24,7 @@ namespace Lesson3
             string[] properties = all[1].Split(',');
             return properties;
         }
-
+        //build smth
         public static StringBuilder CreateText(string[] text)
         {
 
